@@ -2,7 +2,9 @@
 Delete all documents in a CouchDB database
 
 # How to use
-## Update the source code with your own credentials in the URL.
+## Update the credentials
+Modify this line:
+  var remoteCouch = 'https://xxx:yyy@abc.com';
 ## Usage
 node bulkdelete.js <db name>
 # Depencendy
