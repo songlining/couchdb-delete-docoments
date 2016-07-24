@@ -8,6 +8,6 @@ Modify this line:
   var remoteCouch = 'https://xxx:yyy@abc.com';
 
 ## Usage
-node bulkdelete.js <db name>
+node bulkdelete.js the-db-name
 # Depencendy
 Install nano package with npm.
