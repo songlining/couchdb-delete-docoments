@@ -1,4 +1,4 @@
-# couchdb-delete-docoments
+# couchdb-delete-documents
 Delete all documents in a CouchDB database
 
 # How to use
